@@ -8,5 +8,6 @@ events:
   - smalltalk-paint 
   - macpaint-prototype
   - macpaint
+  - oracledesigner
 ---
 
