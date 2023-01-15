@@ -12,11 +12,11 @@ theme: minimal-mistakes-jekyll
 locale                   : "gr-GR"
 title                    : "Κατασκευή Συστημάτων Διάδρασης"
 title_separator          : "-"
-name                     : "Oroseira"
+name                     : "Chris-Livas"
 description              : "Making Interactivity Greek Book."
-url                      : "https://oroseira2022.netlify.app"
+url                      : "https://chrislivas.netlify.app"
 baseurl                  : ""
-repository               : "Oroseira/site"
+repository               : "Chris-Livas/site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
